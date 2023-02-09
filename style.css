@@ -1,0 +1,56 @@
+body {
+    font-size: x-large; 
+    font-family: cursive; 
+    background-color: teal; 
+    text-align: center; 
+    width: 100%;
+} 
+
+.imgMain img {
+    width: 35%;
+} 
+.mainTwo label {
+    font-size: xxx-large; 
+    color: #ff02ff;
+} 
+.foot { 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    gap: 2px; 
+    color: tan; 
+    font-size: xx-large;
+} 
+
+.footOne{ 
+    width: 15%; 
+    color: tan; 
+    font-size: x-large;
+    background-color: palevioletred; 
+    border-radius: 10px;
+} 
+
+.footTwo { 
+    width: 15%; 
+    color: tan;
+    font-size: x-large;
+    background-color: aquamarine;  
+    border-radius: 10px;
+} 
+
+.footTrois { 
+    width: 15%; 
+    color: tan;
+    font-size: x-large;
+    background-color: brown; 
+    border-radius: 10px;
+} 
+#menos {
+    color: #000000; 
+    font-size: xxx-large;
+} 
+#mas {
+    color: #ff0000; 
+    font-size: xxx-large; 
+} 
+ 
